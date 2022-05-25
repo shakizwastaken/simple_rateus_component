@@ -1,0 +1,1 @@
+# simple_rateus_component
